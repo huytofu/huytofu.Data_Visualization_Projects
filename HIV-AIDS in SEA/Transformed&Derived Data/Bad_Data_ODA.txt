@@ -1,0 +1,16 @@
+"year","donorcode","donorname","recipientcode","recipientname","RMNCH_code","purposecode","purposename","CH_Exp","MNH_Ex","RH_Exp","channelcode","channelname","Countofrecords"
+2005,1311,GAVI,269,Senegal,415,0,,-1.063110887,0,0,0,,4
+2005,1311,GAVI,745,Lao People's Democratic Republic,415,0,,-1.346554944,0,0,0,,4
+2006,10,Sweden,288,Zambia,440,12220,Basic health care,-7.556734652,-1.597436312,-1.597436312,10000,PUBLIC SECTOR (donor, recipient, other),1
+2007,1311,GAVI,635,Myanmar,415,12220,Basic health care,-1.98236424,0,0,41122,United Nations Children’s Fund,3
+2009,10,Sweden,288,Zambia,300,12220,Basic health care,-2.090666535,-0.441951027,-0.441951027,10000,Public Sector (donor, recipient, other),8
+2009,1311,GAVI,665,Pakistan,436,12220,Basic health care,-1.264856764,0,0,41122,United Nations Children’s Fund,1
+2009,1311,GAVI,769,Vietnam,415,12220,Basic health care,-3.529950649,0,0,41122,United Nations Children’s Fund,2
+2010,905,IDA,645,India,421,13020,Reproductive health care,0,-2.581039564,-2.581039564,0,,5
+2010,905,IDA,645,India,435,12110,Health policy & admin. management,-1.681550375,-1.681550375,-1.681550375,0,,1
+2010,8,Norway,665,Pakistan,440,12230,Basic health infrastructure,-1.379060628,-0.291522943,-0.291522943,22000,National NGOs,2
+2010,1311,GAVI,645,India,415,12220,Basic health care,-5.842123045,0,0,41122,United Nations Children’s Fund,2
+2012,302,United States,227,Botswana,434,13040,Std control including hiv/aids,-0.13893668,0,-5.738660421,50000,Others,45
+2012,905,IDA,247,Cote d'Ivoire,431,13020,Reproductive health care,-3.872933042,-3.872933042,-3.872933042,12000,Recipient government,1
+2012,905,IDA,233,Comoros,440,12110,Health policy & admin. management,-1.145822477,-0.242218169,-0.242218169,12000,Recipient government,1
+2013,1311,GAVI,998,Bilateral, unspecified,415,12110,Health policy & admin. management,-49.64,0,0,47122,Global Alliance for Vaccines and Immunization,3

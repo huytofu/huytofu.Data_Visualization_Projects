@@ -1,0 +1,10 @@
+1. for ODA - http://datacompass.lshtm.ac.uk/320/
+2. for country factsheets - http://aidsinfo.unaids.org/
+3. For Health Spending - http://apps.who.int/nha/database/ViewData/Indicators/en
+4. Religion by country - https://en.wikipedia.org/wiki/Religions_by_country#cite_note-pewResearch-1
+
+[SSIS.Pipeline] Error: SSIS Error Code DTS_E_PROCESSINPUTFAILED.  
+The ProcessInput method on component "Conditional Split" (2) failed with error code 0xC0209029 while processing 
+input "Conditional Split Input" (3). The identified component returned an error from the ProcessInput method. 
+The error is specific to the component, but the error is fatal and will cause the Data Flow task to stop running.  
+There may be error messages posted before this with more information about the failure.
