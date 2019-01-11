@@ -15,9 +15,9 @@
   4. Data Processing & Visualization with Tableau
   
   
-## Project 1: 
-  **This is the project in which I visualize my favorite team Liverpool's performance in the Premier League throughout the years
-  **The data comes from Kaggle, scrapped from various sources by a fellow data scientist
+## <font color=blue> Project 1: 
+  **This is the project in which I visualize my favorite team Liverpool's performance in the Premier League throughout the years**  
+  **The data comes from Kaggle, scrapped from various sources by a fellow data scientist**  
   **Things I've learnt from carrying out the project**
   1. Data Joining & Integration from various sources/tables
   2. Data Cleaning
