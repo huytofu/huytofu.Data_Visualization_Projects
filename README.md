@@ -1,7 +1,7 @@
 # Data_Visualization_Projects
 
 ## Project 1: 
-  **This is the project in which I tasked myself to visualize the current HIV/AIDS situation in South East Asia
+  **This is the project in which I tasked myself to visualize the current HIV/AIDS situation in South East Asia**\n
   **The data is aggregated from various sources namely**
   1. UN AIDSINFO Website
   2. WHO Website
