@@ -23,7 +23,7 @@
   2. Data Cleaning 
   3. ETL Pipeline with Microsoft Visual Studio's SQL server tool
   4. Data Querying With SQL
-  5. Data Processing with Pandas in Ipython Notebook (Please access branch content/Liverpool in PL to view the Ipython notebook)
+  5. Data Processing with Pandas in Ipython Notebook (Please access branch **content/Liverpool in PL** to view the Ipython notebook)
   6. More Advanced Data Processing & Visualization with Tableau
   
   
