@@ -11,7 +11,7 @@
   1. Data Joining & Integration from various sources/tables
   2. Data ETL & Cleaning (Basics)
   3. Data Querying With SQL
-  4. Data Processing & Visualization with Tableau
+  4. Data Processing & Visualization with Tableau  
    +++ Please access branch **content/HIV-AIDS in SEA** to view various files including raw data
   
 ## Project 2: https://theinformedman.wordpress.com/2018/12/10/liverpool-in-the-premier-league-a-visual-exploration-part-1/
@@ -23,7 +23,7 @@
   3. ETL Pipeline with Microsoft Visual Studio's SQL server tool
   4. Data Querying With SQL
   5. Data Processing with Pandas in Ipython Notebook 
-  6. More Advanced Data Processing & Visualization with Tableau
+  6. More Advanced Data Processing & Visualization with Tableau  
   +++ Please access branch **content/Liverpool in PL** to view various files including raw data & the Ipython Notebook
   
   
