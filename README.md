@@ -1,6 +1,6 @@
 # Data_Visualization_Projects
 
-## Project 1: https://medium.com/@huy.to.ryan/visualising-hiv-aids-situation-in-south-east-asian-countries-part-1-15b2861e03b0
+## Project 1: https://medium.com/the-informed-man/visualising-hiv-aids-situation-in-south-east-asian-countries-part-1-15b2861e03b0
   **This is the project in which I tasked myself to visualize the current HIV/AIDS situation in South East Asia**  
     
    +++ Please access branch **content/HIV-AIDS in SEA** to view more details & various files including raw data
